@@ -1,40 +1,29 @@
-# Hi, I'm Linas Jesaias 👋
+# Linas Jesaias
 
-**Creative developer building software, websites and games from the ground up.**
+Design engineer in Copenhagen. I build software, games and music tools, and I care about the last ten percent that makes something feel finished.
 
-I combine programming, visual design and music to turn ideas into working products. My projects range from web apps and browser games to PC games and audio plugins.
+My background is visual design, and it grew into product development. I work across the whole chain myself: the idea, the interface, the code, the testing, the polish. I use AI tools throughout development and keep the product decisions and the taste in my own hands.
 
-I use AI throughout development, from prototyping and implementation to debugging and iteration. I drive the concept, design and decisions that shape the final product.
+## Work
 
-## Selected projects
+**[SERIGO](https://github.com/jesaias1/SERIGO)** is a hybrid synthesizer for Windows, as a VST3 plugin and a standalone app. Each sound has three layers that can be analog, wavetable, sample or granular, run through a filter and thirteen effects, with 1,032 factory presets. It is written in C++20 with JUCE 8. The sound engine does no allocation, locking or file access on the audio thread, and an automated suite of more than 23,000 checks runs on every change. The source is closed; the installer is a free download.
 
-🎮 **Playhead**  
-A music-driven 3D browser game built with Three.js, TypeScript and Web Audio.
+**[Playhead](https://www.jesaias.dk/play/playhead)** turns any song you drop in into a 3D world that you strafe and surf through in first person. It analyses the audio in real time and generates the level from it. Three.js, TypeScript and the Web Audio API. [Code](https://github.com/jesaias1/PLAYHEAD)
 
-🧠 **KVIZY**  
-A quiz app built with Next.js and TypeScript, with offline support.
+**[KVIZY](https://kvizy-two.vercel.app)** is a Danish pass-the-device quiz game for one shared screen, made for real game nights: quick setup, and it keeps working without a connection. An offline-first PWA in Next.js and TypeScript. [Code](https://github.com/jesaias1/KVIZY)
 
-🔤 **Lettus**  
-A word game built with React and TypeScript.
+**[Lettus](https://lettus.vercel.app)** is a grid word game. Pick a letter, build words across, down and backwards, and outscore an AI or a friend on the same screen. React and TypeScript. [Code](https://github.com/jesaias1/word-grid-clash)
 
-🎛️ **ORVO & MIDIUM**  
-Audio plugins built with JUCE and C++, exploring sound manipulation and new ways to create music.
+**[Hopkey](https://keybound-kappa.vercel.app)** is a party game where tiny critters hop across a giant keyboard and type words by where they land, while every key they leave jams behind them. Godot 4, with online play in the browser. [Code](https://github.com/jesaias1/Keybound)
 
-🏃 **Ryder’s Road**  
-A first-person parkour game built with Unity and C#.
+**ORVO, MIDIUM and ABYX** are music plugins and instruments: a sample-transformation instrument, a visual MIDI sketchpad, and a gamepad performance tool. They live at [jesaias.dk/audio](https://jesaias.dk/audio), with the other plugins.
 
-## What I work with
+## Tools
 
-- **Web:** React, Next.js, TypeScript, Three.js
-- **Software & games:** C++, JUCE, Unity, C#
-- **Design & video:** Photoshop, Premiere Pro, After Effects
-- **Audio:** Music production, sound design and audio tools
+TypeScript, React and Next.js for the web. C++ and JUCE for audio software. Unity with C#, and Godot, for games. Three.js and the Web Audio API where the two meet. Photoshop, Premiere Pro and After Effects for the design and video side. Music production and sound design underneath all of it.
 
-## Open to work
+## Contact
 
-I'm based in Copenhagen and open to freelance projects, collaborations and relevant job opportunities.
+Open to design engineer, product and front-end roles, creative technology, and selected freelance projects.
 
-Need a website, a custom tool, an interactive experience or help bringing a product idea to life? Let's talk.
-
-🌐 **Portfolio:** [jesaias.dk](https://jesaias.dk)  
-📬 **Contact:** [linasjesaias@gmail.com](mailto:linasjesaias@gmail.com)
+[jesaias.dk](https://jesaias.dk) · [linasjesaias@gmail.com](mailto:linasjesaias@gmail.com)
